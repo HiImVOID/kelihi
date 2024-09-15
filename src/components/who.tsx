@@ -6,7 +6,7 @@ export default function WhoYouAre() {
             <div className='flex flex-col items-center gap-8'>
                 <h2 className='text-5xl font-bold text-primary'>Who You Are</h2>
                 <p className='text-lg font-semibold text-center'>
-                    Wondering if you're the right fit for Kelihi? Check out the below requirements --
+                    Wondering if you&apos;re the right fit for Kelihi? Check out the below requirements --
                     these are the basic items that all applicants must meet in order to be considered.
                 </p>
             </div>

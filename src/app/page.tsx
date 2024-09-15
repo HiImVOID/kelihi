@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Navbar from "../components/navbar";
 import GetPaid from "../components/getPaid";
 import Bootcamp from "../components/bootcamp";

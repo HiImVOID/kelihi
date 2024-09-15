@@ -7,8 +7,9 @@ export default function Navbar() {
         <header className='flex flex-col md:flex-row justify-between h-[135px] items-center h-full'>
             <Image
                 src={Logo}
-                widht='130'
-                height='130'
+                width={130}
+                height={130}
+                alt=''
             />
             <Link href='/pt-BR'>
                 <button className='bg-primary p-3 uppercase text-white'>
